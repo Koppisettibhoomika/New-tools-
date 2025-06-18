@@ -1,0 +1,13 @@
+RunwayML Tool Prompts
+1. Photo with garden and a small baby
+2. Two persons working collaboratively
+3. Cover art for a mobile game. Animals dressed in outrageous fashion compete in cute battles—penguin in a punk outfit vs llama in a tutu, sparkly effects and stylized backgrounds. Playful, energetic vibe.
+
+DELL-2 Tool Prompts
+1. Create an image of a photorealistic magazine cover for 'CUTE ANIMALS,' featuring three impossibly cute and stylishly accessorized pets, with realistic, catchy headlines and teaser text
+2. A colorful greeting card with glittery text, featuring a cat in a feather boa and tiara holding balloons, a winking pug with a cupcake, and a ferret tossing confetti. Rainbow background and cursive font.
+3. Generate image with beautiful birds and butterflies flying and a nice quote that describes about the nature
+
+Sora (OpenAI) Tool Prompts
+1. Beautiful flowers and birds flying in the air (Image)
+2. An image of two children playing with rabbits (Image)
